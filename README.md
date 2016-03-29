@@ -7,4 +7,4 @@ I have used Microsoft's Oxford Project for facial recognition.
 Reference: https://www.projectoxford.ai/
 
 Here is the demo: <br/>
-[![Video](http://i.picresize.com/ULtf)](https://www.youtube.com/watch?v=ajQR2nUUN_E)
+[![Video](http://i.picresize.com/images/2016/03/29/aNBtC.jpg)](https://www.youtube.com/watch?v=ajQR2nUUN_E)
