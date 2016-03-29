@@ -6,5 +6,5 @@ Based on the detected gender, it'd recommend products to you.
 I have used Microsoft's Oxford Project for facial recognition.
 Reference: https://www.projectoxford.ai/
 
-Here is the demo:
-[![Video](https://i.ytimg.com/vi/ajQR2nUUN_E/maxresdefault.jpg)](https://www.youtube.com/watch?v=ajQR2nUUN_E)
+Here is the demo: <br/>
+[![Video](http://i.picresize.com/ULtf)](https://www.youtube.com/watch?v=ajQR2nUUN_E)
