@@ -1,0 +1,33 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.apatel.quantifiedrecommendation.Fragments.MainFragment">
+
+    <!--Prompt user to take a photo-->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/welcomeText"
+        android:gravity="center"
+        android:lines="2"
+        android:text="Let's take a selfie!" />
+
+    <!--Display the clicked photo-->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/inputImageView"
+        android:layout_below="@+id/welcomeText"
+        android:layout_centerHorizontal="true" />
+
+    <!--Camera Flaoting Button-->
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="@dimen/fab_margin"
+        android:src="@android:drawable/ic_menu_camera" />
+
+</FrameLayout>

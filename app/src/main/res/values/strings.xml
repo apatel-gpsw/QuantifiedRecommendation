@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Quantified Recommendation</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about_akash">Developed By Akash Patel</string>
+
+    <string name="subscription_key">4625fbb8cc404967b2fab5ee5295a772</string>
+    <string name="About_App">Problem Statement:\n
+                1. Prompt the user to take a selfie.\n
+                2. Store the selfie to the phone.\n
+                3. Perform the gender analysis on the selfie to determine if it is a man or woman\n
+                4. Recommend a razor to a man and mascara to a woman.</string>
+</resources>
